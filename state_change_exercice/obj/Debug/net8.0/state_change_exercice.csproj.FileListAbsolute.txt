@@ -1,0 +1,14 @@
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\bin\Debug\net8.0\state_change_exercice.exe
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\bin\Debug\net8.0\state_change_exercice.deps.json
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\bin\Debug\net8.0\state_change_exercice.runtimeconfig.json
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\bin\Debug\net8.0\state_change_exercice.dll
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\bin\Debug\net8.0\state_change_exercice.pdb
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\state_change_exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\state_change_exercice.AssemblyInfoInputs.cache
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\state_change_exercice.AssemblyInfo.cs
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\state_change_exercice.csproj.CoreCompileInputs.cache
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\state_change_exercice.dll
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\refint\state_change_exercice.dll
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\state_change_exercice.pdb
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\state_change_exercice.genruntimeconfig.cache
+C:\Users\ugobo\source\repos\state_change_exercice\state_change_exercice\obj\Debug\net8.0\ref\state_change_exercice.dll
